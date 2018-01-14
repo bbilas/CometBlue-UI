@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>AppStyle.qml</file>
+        <file>TitleBar.qml</file>
+        <file>BottomLine.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
