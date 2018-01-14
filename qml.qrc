@@ -6,5 +6,7 @@
         <file>TitleBar.qml</file>
         <file>BottomLine.qml</file>
         <file>qmldir</file>
+        <file>ConnectPage.qml</file>
+        <file>ConnectPageForm.ui.qml</file>
     </qresource>
 </RCC>

@@ -29,4 +29,12 @@ Window {
         currentIndex: __currentIndex
         onTitleClicked: __currentIndex = index
     }
+
+    Loader {
+        id: pageLoader
+        anchors.fill: parent
+        visible: true
+        asynchronous: true
+        sourceComponent: ConnectPageForm{}
+    }
 }
